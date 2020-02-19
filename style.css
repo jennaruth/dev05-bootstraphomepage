@@ -1,0 +1,24 @@
+.bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+
+body {
+  margin:0;
+  padding:0;
+  border:0;
+}
+
+* {
+  background-image: url("https://media.istockphoto.com/photos/light-blue-brick-wall-background-picture-id1054721566?k=6&m=1054721566&s=170667a&w=0&h=i-D4Y1S6IOEbgurcWzbJTz-SU6UC9nRqaw3sT49vlMw=")
+}
